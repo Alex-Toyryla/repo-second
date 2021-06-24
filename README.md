@@ -1,2 +1,4 @@
 # repo-second
-This is YET another sample repository.
+This is yet another sample repository
+Let's add a new line
+Let's add yet another line!
